@@ -6,6 +6,8 @@
 - [Transformer](#transformer)
 - [GAN](#gan)
 - [RL](#rl)
+- [Relation Classfication](#relation-classfication)
+- [Graph2Seq](#graph2seq)
 
 <!-- /TOC -->
 # CNN
@@ -14,3 +16,5 @@
 # Transformer
 # GAN
 # RL
+# Relation Classfication
+# Graph2Seq
