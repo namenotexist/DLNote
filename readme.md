@@ -11,6 +11,8 @@
 - [Seq2Seq](#seq2seq)
 - [Node Classification](#node-classification)
 - [docker](#docker)
+- [semi-supervised](#semi-supervised)
+- [joint learning](#joint-learning)
 
 <!-- /TOC -->
 # CNN
@@ -24,3 +26,5 @@
 # Seq2Seq
 # Node Classification
 # docker
+# semi-supervised
+# joint learning
