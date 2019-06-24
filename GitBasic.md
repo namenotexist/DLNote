@@ -17,3 +17,21 @@
         - git branch -d [branch name]
     - 删除远程分支
         - git push origin :[branch name]
+
+- 全局配置
+    - git config --global user.name 'Your name'
+    - git config --global user.email 'email@example.com'
+- 创建一个空仓库
+    - git init
+- 提交文件到仓库
+    - git add file1.txt
+    - git add file2.txt file3.txt
+    - git commit -m 'add 3 files'
+- 查看仓库状态
+    - git status
+- 查看具体哪些地方被修改
+    - git diff [filename]
+- 查看历史记录
+    - git log --pretty=oneline
+
+
