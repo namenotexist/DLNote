@@ -31,8 +31,14 @@
     - git status
 - 查看具体哪些地方被修改
     - git diff [filename]
-- 查看历史记录
+- 查看提交历史
     - git log --pretty=oneline
+- 版本回退
+    - git reset --hard HEAD^
+- 版本跳转
+    - git reset --hard [commit id]
+- 查看命令历史
+    - git reflog
 
 
 
