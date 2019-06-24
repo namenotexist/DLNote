@@ -4,7 +4,7 @@
 - [LSTM](#lstm)
 - [GNN](#gnn)
 - [Transformer](#transformer)
-- [GAN](#gan)
+- [GAT](#gat)
 - [RL](#rl)
 - [Relation Classification](#relation-classification)
 - [Graph2Seq](#graph2seq)
@@ -19,7 +19,7 @@
 # LSTM
 # GNN
 # Transformer
-# GAN
+# GAT
 # RL
 # Relation Classification
 # Graph2Seq
