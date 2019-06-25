@@ -24,7 +24,7 @@
         - git add & git commit
         - 查看分支合并图
             - git log --graph --pretty=oneline --abbrev-commit
-
+    
 - 全局配置
     - git config --global user.name 'Your name'
     - git config --global user.email 'email@example.com'
